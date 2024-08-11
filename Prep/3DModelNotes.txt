@@ -1,0 +1,30 @@
+Models to consider:
+===================
+
+Buildings
+- https://www.cgtrader.com/free-3d-models/military/other/nato-aircraft-shelter-v1
+- https://www.cgtrader.com/free-3d-models/aircraft/other/japan-self-defense-force-air-craft-hanger
+- https://www.cgtrader.com/free-3d-models/aircraft/private-aircraft/cloud-dancer-40
+- https://www.cgtrader.com/free-3d-models/aircraft/commercial-aircraft/template-irkut-ms-21
+- https://www.cgtrader.com/free-3d-models/exterior/industrial-exterior/warehouse-low-poly
+- https://www.cgtrader.com/free-3d-models/exterior/industrial-exterior/electrical-substation-e0bb299c-0b45-4a0f-884a-49d7bf1fd9c0
+
+Stores
+- https://www.cgtrader.com/free-3d-models/military/rocketry/missile-1
+- https://www.cgtrader.com/free-3d-models/military/rocketry/rocket-cd5ff7b6-abfc-4dc2-88de-b248895bbf1d
+
+Commercial Planes
+- https://www.cgtrader.com/free-3d-models/aircraft/jet/bussines-jet-3d-model-by-nikdox
+- https://www.cgtrader.com/free-3d-models/aircraft/commercial-aircraft/vision-airlines-boeing-737-300
+
+Marine: 
+- Free Boats // https://www.cgtrader.com/free-3d-models/watercraft/other/boats-db796996-1477-4b6e-848a-11a92d688845
+
+Misc:
+- Antennas // https://www.cgtrader.com/3d-models/exterior/other/antennas-collection-21-pieces
+- Greeblies // https://www.cgtrader.com/free-3d-models/military/other/robot-parts-61771e98-0990-4502-bfaa-ff8e342651cf
+- SimpleBox Containers // https://www.cgtrader.com/free-3d-models/industrial/other/shipping-containers-ba3eb7fd-a20b-4441-ae6e-9e4adc0b6f32
+
+Land Vehicles:
+- Old Tank // https://www.cgtrader.com/free-3d-models/military/military-vehicle/a34-comet-british-medium-tank
+- Old Tank // https://www.cgtrader.com/free-3d-models/military/military-vehicle/pzkpfw-ii-ausf-j-german-light-tank
