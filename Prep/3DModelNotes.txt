@@ -24,6 +24,7 @@ Misc:
 - Antennas // https://www.cgtrader.com/3d-models/exterior/other/antennas-collection-21-pieces
 - Greeblies // https://www.cgtrader.com/free-3d-models/military/other/robot-parts-61771e98-0990-4502-bfaa-ff8e342651cf
 - SimpleBox Containers // https://www.cgtrader.com/free-3d-models/industrial/other/shipping-containers-ba3eb7fd-a20b-4441-ae6e-9e4adc0b6f32
+- Little Trawler: https://www.cgtrader.com/3d-model/fishing-ship-game-ready-asset-detailed-version
 
 Land Vehicles:
 - Old Tank // https://www.cgtrader.com/free-3d-models/military/military-vehicle/a34-comet-british-medium-tank
